@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "auzejqF4UzKtMGWegls6PlC2Ps97Zpf8C13YY2CuO7NSAPOQ9+WV4B37Jg729PPOqCfqbQ5bRIrfVsDkrI6XPg==",
+  "success": true,
+  "projectFilePath": "/Users/vpupim/workspace/dotnet-docker/src/myWebApp.csproj",
+  "expectedPackageFiles": [
+    "/Users/vpupim/.nuget/packages/microsoft.netcore.app.ref/6.0.13/microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/vpupim/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.13/microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "/Users/vpupim/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.13/microsoft.netcore.app.host.osx-arm64.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
